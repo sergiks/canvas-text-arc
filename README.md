@@ -1,5 +1,5 @@
 # canvas-text-arc
-![example][example.png]
+![example][https://github.com/sergiks/canvas-text-arc/raw/master/example.png]
 
 Quick experiment in rendering a text geometry distortion effect within canvas.
 
